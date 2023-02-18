@@ -1,0 +1,6 @@
+# COMP2156 Group 6 Assignment
+
+DevOps course is taught by professor Pritesh Patel
+ the textbook that we use for this course is DevOps A Software Architect’s Perspective (Bass, Len Weber, Ingo Zhu, Liming
+[Bass etc.)
+Recommended Web Reference: https://github.com, https://travis-ci.com
