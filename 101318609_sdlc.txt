@@ -1,2 +1,3 @@
 DevOps engineering requires a strong understanding of software development, automation, scripting, system administration, and system architecture.
 DevOps is a set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+DevOps is an approach to software development that focuses on communication, collaboration, integration, automation and measurement of cooperation between software developers and IT operations professionals.
