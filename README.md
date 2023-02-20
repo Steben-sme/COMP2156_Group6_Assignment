@@ -4,6 +4,6 @@ Steven Enriquez(student id): 101307475
 Minh Khoa Chung: 101318609
 Charles Daquigan: 101364993
 Kim Duong: 101376681
-Tony Murat:
+Tony Murat: 100783222
 
 Group 6 Devops Assignment
