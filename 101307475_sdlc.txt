@@ -1,1 +1,2 @@
- 
+Learning DevOps Engineering is crucial in the software development cycle because it helps
+to bridge the gap between software development and IT operations. 
