@@ -1,0 +1,2 @@
+Learing DevOps engineering in software development is crucial for increasing efficiency and automating manual processes. 
+It reduces the risk of errors and it improves the speed of change.
