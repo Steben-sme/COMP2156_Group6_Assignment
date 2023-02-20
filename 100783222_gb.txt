@@ -1,9 +1,9 @@
-In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
-workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
-available and implement hands-on work using industry standard toolkit. Create solution to complex business
-problem by adhering to the core responsibilities of DevOpsStudents will learn about data formats and types,
-including Extensible Markup Language (XML), JavaScript Object Notation (JSON), Yaml Ain't Markup Language
-(YAML), and Yet Another Next Generation (YANG), and their value in network automation, along with DevOps tools
-such as Ansible and Git.
+GBC
 
-Obtained from Course Outline.
+Why study George Brown College?
+
+George Brown College provides a blend of theory and hands-on experience while prioritizing real-world learning. 
+Students are provided with opportunities to work alongside industry professionals in applied research and field education opportunities. 
+Industry partnerships mean students get the latest trends and tech they can expect in the field. 
+
+https://www.georgebrown.ca/why-george-brown
