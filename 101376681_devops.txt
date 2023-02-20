@@ -1,2 +1,0 @@
-Program: T141 Computer System Technician
-Course: COMP2156 - DevOps for system admin
