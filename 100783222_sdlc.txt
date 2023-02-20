@@ -1,0 +1,9 @@
+SDLC
+
+DevOps is all about the unification and automation of processes, and 
+DevOps engineers are instrumental in combining code, application maintenance, and 
+application management. 
+All of these tasks rely on understanding not only development life cycles, but 
+DevOps culture, and its philosophy, practices, and tools.
+
+https://www.redhat.com/en/topics/devops/devops-engineer#:~:text=DevOps%20is%20all%20about%20the,philosophy%2C%20practices%2C%20and%20tools.
